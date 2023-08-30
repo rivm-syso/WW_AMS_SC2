@@ -1,0 +1,7 @@
+source("scripts/process_clinical_data.R")
+source("scripts/figure_1.R")
+source("scripts/figure_2.R")
+source("scripts/figure_3.R")
+source("scripts/figure_4.R")
+source("scripts/table_1.R")
+print("Finished")

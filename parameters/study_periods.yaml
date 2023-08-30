@@ -1,0 +1,26 @@
+B :
+  start_date : '2020-12-01'
+  end_date :   '2021-05-31'
+  variants :
+    - 'Alpha - B.1.1.7'
+    - 'Beta - B.1.351'
+    - "Gamma - P.1"
+C :
+  start_date : '2021-06-01'
+  end_date :   '2021-11-30'
+  variants :
+    - 'Delta - B.1.617.2'
+    - 'Mu - '
+    - 'Lambda - '
+D :
+  start_date : '2021-12-01'
+  end_date :   '2022-04-30'
+  variants :
+    - 'Omicron - BA.1'
+    - 'Omicron - BA.2'
+E :
+  start_date : '2022-05-01'
+  end_date :   '2022-09-04'
+  variants :   
+    - 'Omicron - BA.4'
+    - 'Omicron - BA.5'
