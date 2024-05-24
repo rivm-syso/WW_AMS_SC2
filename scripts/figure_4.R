@@ -38,17 +38,17 @@ option_list = list(
   ),
   make_option(
     c("-p", "--passenger_data"), 
-    default="https://zenodo.org/record/8298280/files/pandemic_daily_passenger_counts.tsv",
+    default="https://zenodo.org/record/11282406/files/pandemic_daily_passenger_counts.tsv",
     help=".TSV file containing passenger data",
   ),
   make_option(
     c("-v", "--viral_load_data"), 
-    default="https://zenodo.org/record/8298280/files/viral_load_data.tsv",
+    default="https://zenodo.org/record/11282406/files/viral_load_data.tsv",
     help=".TSV file containing viral load data",
   ),
   make_option(
     c("-w", "--wastewater_variant_frequency_data"), 
-    default="https://zenodo.org/record/8298280/files/wastewater_variant_frequencies.tsv",
+    default="https://zenodo.org/record/11282406/files/wastewater_variant_frequencies.tsv",
     help=".TSV file containing relative frequencies of variants from ww samples",
   ),
   # Collection directory

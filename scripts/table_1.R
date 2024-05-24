@@ -32,7 +32,7 @@ option_list = list(
   # 
   make_option(
     c("-w", "--wastewater_variant_data"), 
-    default="https://zenodo.org/record/8298280/files/wastewater_variant_frequencies.tsv", 
+    default="https://zenodo.org/record/11282406/files/wastewater_variant_frequencies.tsv", 
     help="",
   ),
   # 

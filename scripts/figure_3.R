@@ -47,7 +47,7 @@ option_list = list(
   ),
   make_option(
     c("-v", "--viral_load"), 
-    default="https://zenodo.org/record/8298280/files/viral_load_data.tsv",
+    default="https://zenodo.org/record/11282406/files/viral_load_data.tsv",
     help=".tsv file containing viral load measurments",
   ),
   # Output directory

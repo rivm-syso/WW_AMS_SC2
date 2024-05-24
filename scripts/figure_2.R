@@ -33,7 +33,7 @@ option_list = list(
   # Collection directory
   make_option(
     c("-s", "--schiphol_data"), 
-    default="https://zenodo.org/record/8298280/files/viral_load_data.tsv",
+    default="https://zenodo.org/record/11282406/files/viral_load_data.tsv",
     help=".TSV file containing viral load data for Amsterdam Schiphol Airport",
   ),  # Collection directory
   make_option(
